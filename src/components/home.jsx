@@ -3,7 +3,7 @@ import React from 'react'
 function Home() {
   return (
     <div className='home w-full h-screen flex'>
-      <div className='home-left bg-gradient-to-r from-green-200 to-cyan-500 w-7/12 h-screen px-12 flex flex-col gap-32'>
+      <div className='home-left bg-gradient-to-t from-green-200 to-cyan-500 w-7/12 h-screen px-12 flex flex-col gap-32'>
             <div className='left-title  flex pt-28 text-[175px] font-regular text-white gap-y-9'>
                   Flower Pub
             </div>
